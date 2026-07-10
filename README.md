@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a 2nd year B-Tech Student pursuing Computer Science with Cybersecurity at Dayananda Sagar University
+I'm currently a 3nd year B-Tech Student pursuing Computer Science with Cybersecurity at Dayananda Sagar University
 
 
 ## 🌐 Socials:
