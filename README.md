@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently a 3rd year B-Tech Student pursuing Computer Science with Cybersecurity.<br><br>Breaking systems to learn how to build them better.<br>
 
+https://garima040106.github.io/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garima-varma04/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/garima_varmaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garimavarma004@gmail.com) 
