@@ -15,8 +15,7 @@ https://garima040106.github.io/
 <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Garima040106&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Garima040106)
 
-### 📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Garima040106&theme=tokyo-night&hide_border=true&area=true)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
